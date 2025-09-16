@@ -1,0 +1,7 @@
+surface, motility data for Pseudomonas putida WT fliC
+
+PARAMETERS: 60x Zoom, 100 fps
+
+DATE AND ORDER: 21-07-22, WT_60x_100fps_9, Substack 4
+
+DATA OBTAINED BY: Veronika Pfeifer

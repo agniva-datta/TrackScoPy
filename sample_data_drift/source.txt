@@ -1,0 +1,8 @@
+bulk h=20 um, motility data for Pseudomonas putida WT fliC under strong flow (500nl/min)
+
+PARAMETERS: 60x Zoom, 100 fps
+
+DATE AND ORDER: 12-10-22, exp 10
+
+DATA OBTAINED BY: Valeriia Muraveva
+

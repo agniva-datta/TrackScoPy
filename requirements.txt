@@ -1,0 +1,17 @@
+numpy
+scipy
+mpmath
+joblib
+matplotlib
+pandas
+scikit-image
+scikit-learn
+numba
+opencv-python-headless
+tqdm
+numdifftools
+notebook
+ipykernel
+traitlets
+ipywidgets 
+widgetsnbextension
