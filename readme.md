@@ -16,7 +16,7 @@ TrackScoPy is a Python-based toolbox for analyzing multi-channel fluorescence mi
 
 The first step is to separate individual color channels from multi-channel videos, apply pre-processing (like background correction, segmentation) and save the processed stacks for tracking. The processing steps are partially based on \[1\]:
 
-\[1\]M. Hintsche, V. Waljor, R. Großmann, M.J. K¨uhn, K.M. Thormann, F. Peruani, and C. Beta, A polar bundle of flagella can drive bacterial swimming by pushing, pulling, or coiling around the cell body, Sci Rep 7, 16771 (2017) [DOI](https://www.nature.com/articles/s41598-017-16428-9)  
+\[1\] M. Hintsche, V. Waljor, R. Großmann, M.J. Kühn, K.M. Thormann, F. Peruani, and C. Beta, A polar bundle of flagella can drive bacterial swimming by pushing, pulling, or coiling around the cell body, Sci Rep 7, 16771 (2017) [DOI](https://www.nature.com/articles/s41598-017-16428-9)  
 
 
 
