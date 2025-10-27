@@ -86,7 +86,7 @@ This framework can be cited by the following Zenodo DOI:
 [Zenodo link](https://doi.org/10.xxxxx/zenodo.xxxxx)
 
 The manuscript associated with the specific classification criteria used above as example, can be found here:
-[Associated manuscript link](https://arxiv.org/abs/xxxx.xxxx)
+[Associated manuscript link](https://doi.org/10.48550/arXiv.2510.21548)
 
 
 
