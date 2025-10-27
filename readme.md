@@ -83,7 +83,7 @@ For using this toolbox, follow the instructions here:
 
 
 This framework can be cited by the following Zenodo DOI:
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17456572.svg)](https://doi.org/10.5281/zenodo.17456572)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17456572.svg)](https://doi.org/10.5281/zenodo.17456571)
 
 The manuscript associated with the specific classification criteria used above as example, can be found here:
 [Associated manuscript link](https://doi.org/10.48550/arXiv.2510.21548)
